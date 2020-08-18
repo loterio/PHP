@@ -12,7 +12,7 @@
 </head>
 <body> 
 <?php 
-    createNavbar('index(active)','me');
+    createNavbar('index(active)','atv1','atv2');
 ?>    
 <div class="container">
 
