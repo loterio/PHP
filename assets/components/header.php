@@ -28,23 +28,6 @@ function createNavbar() {
             }
         }
     }
-    // for($x = 0; $x < count($links); $x++){
-    //     if(strpos($links[$x],'(active)') !== false){
-    //         $a = explode('(',$links[$x]); 
-
-    //         echo "<li class='active'><a href='$a[0].php'>$a[0]</a></li>";
-    //         echo "\n";
-    //     }else if(strpos($links[$x],'[') !== false) {
-    //         $a = explode('[',$links[$x]); 
-    //         var_dump($a);
-    //         echo "<li class='active'><a href='$a[0].php'>$a[0] deeeu</a></li>";
-    //         echo "\n";
-    //     }else{
-    //         echo "<li><a href='$links[$x].php'>$links[$x]</a></li>";
-    //         echo "\n";
-    //     }
-    // }
-
     echo "</ul></nav>";
 }
 
