@@ -30,9 +30,9 @@ li {
 ul li.active a{
     background: rgba(177, 177, 177, 0.205);
 }
-ul li.active a:hover {
+a:hover {
     color: rgba(17, 17, 245, 0.747);
-    background: rgba(116, 116, 116, 0.24);
+    background: rgba(177, 177, 177, 0.205);
     transition: .25s;
 }
 
